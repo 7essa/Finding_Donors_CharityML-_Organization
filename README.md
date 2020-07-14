@@ -18,7 +18,7 @@ This project uses the following software and Python libraries:
  - [Scikit-learn (v0.17)](https://scikit-learn.org/stable/).
  - [Matplotlib](https://matplotlib.org/)
 
-Also, You will also need to have software installed to run and execute a [Jupyter Notebook.](https://jupyter.org/)
+Also, You will need to have software installed to run and execute a [Jupyter Notebook.](https://jupyter.org/)
 # Acknowledgments
 -----------------------------------------------------------------------------------------------
 > Udacity 
